@@ -10,4 +10,3 @@ C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organi
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\refint\organization.Domain.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.pdb
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\ref\organization.Domain.dll
-C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organiza.27A25BA8.Up2Date
