@@ -58,9 +58,14 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.15, )",
+              "versionCentrallyManaged": true
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[11.0.0, )",
+              "version": "[10.0.15, )",
               "versionCentrallyManaged": true
             }
           },
@@ -69,11 +74,11 @@
             "Microsoft.EntityFrameworkCore": "10.0.15",
             "Microsoft.EntityFrameworkCore.Design": "10.0.15",
             "Microsoft.Extensions.Configuration.Abstractions": "10.0.15",
-            "Microsoft.Extensions.DependencyInjection": "11.0.0",
+            "Microsoft.Extensions.DependencyInjection": "10.0.15",
             "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3",
-            "Swashbuckle.AspNetCore": "11.0.1",
-            "Swashbuckle.AspNetCore.Swagger": "11.0.1",
-            "Swashbuckle.AspNetCore.SwaggerUI": "11.0.1"
+            "Swashbuckle.AspNetCore": "10.3.1",
+            "Swashbuckle.AspNetCore.Swagger": "10.3.1",
+            "Swashbuckle.AspNetCore.SwaggerUI": "10.3.1"
           },
           "imports": [
             "net461",
@@ -423,11 +428,11 @@
             "Microsoft.EntityFrameworkCore": "10.0.15",
             "Microsoft.EntityFrameworkCore.Design": "10.0.15",
             "Microsoft.Extensions.Configuration.Abstractions": "10.0.15",
-            "Microsoft.Extensions.DependencyInjection": "11.0.0",
+            "Microsoft.Extensions.DependencyInjection": "10.0.15",
             "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3",
-            "Swashbuckle.AspNetCore": "11.0.1",
-            "Swashbuckle.AspNetCore.Swagger": "11.0.1",
-            "Swashbuckle.AspNetCore.SwaggerUI": "11.0.1"
+            "Swashbuckle.AspNetCore": "10.3.1",
+            "Swashbuckle.AspNetCore.Swagger": "10.3.1",
+            "Swashbuckle.AspNetCore.SwaggerUI": "10.3.1"
           },
           "imports": [
             "net461",
@@ -803,11 +808,11 @@
             "Microsoft.EntityFrameworkCore": "10.0.15",
             "Microsoft.EntityFrameworkCore.Design": "10.0.15",
             "Microsoft.Extensions.Configuration.Abstractions": "10.0.15",
-            "Microsoft.Extensions.DependencyInjection": "11.0.0",
+            "Microsoft.Extensions.DependencyInjection": "10.0.15",
             "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3",
-            "Swashbuckle.AspNetCore": "11.0.1",
-            "Swashbuckle.AspNetCore.Swagger": "11.0.1",
-            "Swashbuckle.AspNetCore.SwaggerUI": "11.0.1"
+            "Swashbuckle.AspNetCore": "10.3.1",
+            "Swashbuckle.AspNetCore.Swagger": "10.3.1",
+            "Swashbuckle.AspNetCore.SwaggerUI": "10.3.1"
           },
           "imports": [
             "net461",
@@ -1162,17 +1167,17 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[11.0.1, )",
+              "version": "[10.3.1, )",
               "versionCentrallyManaged": true
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
-              "version": "[11.0.1, )",
+              "version": "[10.3.1, )",
               "versionCentrallyManaged": true
             },
             "Swashbuckle.AspNetCore.SwaggerUI": {
               "target": "Package",
-              "version": "[11.0.1, )",
+              "version": "[10.3.1, )",
               "versionCentrallyManaged": true
             }
           },
@@ -1181,11 +1186,11 @@
             "Microsoft.EntityFrameworkCore": "10.0.15",
             "Microsoft.EntityFrameworkCore.Design": "10.0.15",
             "Microsoft.Extensions.Configuration.Abstractions": "10.0.15",
-            "Microsoft.Extensions.DependencyInjection": "11.0.0",
+            "Microsoft.Extensions.DependencyInjection": "10.0.15",
             "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3",
-            "Swashbuckle.AspNetCore": "11.0.1",
-            "Swashbuckle.AspNetCore.Swagger": "11.0.1",
-            "Swashbuckle.AspNetCore.SwaggerUI": "11.0.1"
+            "Swashbuckle.AspNetCore": "10.3.1",
+            "Swashbuckle.AspNetCore.Swagger": "10.3.1",
+            "Swashbuckle.AspNetCore.SwaggerUI": "10.3.1"
           },
           "imports": [
             "net461",

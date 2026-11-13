@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABF64170-D949-4510-A80A-504849FF20F8}|organization.infrastructure\\organization.infrastructure.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF64170-D949-4510-A80A-504849FF20F8}|organization.infrastructure\\organization.infrastructure.csproj|solutionrelative:organization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|solutionrelative:organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{66C8A791-3FC1-536A-BDAA-9A40130FBCA4}|organization.infrastructure\\organization.infrastructure.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8A791-3FC1-536A-BDAA-9A40130FBCA4}|organization.infrastructure\\organization.infrastructure.csproj|solutionrelative:organization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC187319-0A50-47EA-A856-9E068CCD495F}|organization.Application\\organization.Application.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC187319-0A50-47EA-A856-9E068CCD495F}|organization.Application\\organization.Application.csproj|solutionrelative:organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C8A791-3FC1-536A-BDAA-9A40130FBCA4}|organization.infrastructure\\organization.infrastructure.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.infrastructure\\organizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8A791-3FC1-536A-BDAA-9A40130FBCA4}|organization.infrastructure\\organization.infrastructure.csproj|solutionrelative:organization.infrastructure\\organizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\organization_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{45AD75BB-41E6-421D-86D7-F36FD752EF34}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\organization_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization_service\\organization_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B6B03C1-3FA5-4C26-D11D-230BF7EA7654}|organization_service\\organization_service.csproj|solutionrelative:organization_service\\organization_service.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrganizationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\OrganizationDbContext.cs",
+              "RelativeDocumentMoniker": "organization.infrastructure\\OrganizationDbContext.cs",
+              "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\OrganizationDbContext.cs",
+              "RelativeToolTip": "organization.infrastructure\\OrganizationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:43:34.009Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -40,7 +58,7 @@
               "RelativeDocumentMoniker": "organization_service\\Program.cs",
               "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\Program.cs",
               "RelativeToolTip": "organization_service\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:05:42.275Z",
               "EditorCaption": "",
@@ -48,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "organization.infrastructure\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "organization.infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:04:59.233Z",
               "EditorCaption": "",
@@ -62,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "organization.Application\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.Application\\DependencyInjection.cs",
               "RelativeToolTip": "organization.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:03:56.363Z",
               "EditorCaption": "",
@@ -76,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\appsettings.Development.json",
               "RelativeDocumentMoniker": "organization_service\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\appsettings.Development.json",
               "RelativeToolTip": "organization_service\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-13T18:00:20.694Z",
               "EditorCaption": "",
@@ -90,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "organization_service.http",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\organization_service.http",
               "RelativeDocumentMoniker": "organization_service\\organization_service.http",
@@ -99,7 +117,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-11-13T18:00:12.641Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             }
           ]

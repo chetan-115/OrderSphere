@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.application\\organization.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|solutionrelative:organization.application\\organization.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|c:\\users\\chetan\\source\\repos\\ordersphere\\src\\modules\\organization_service\\organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD2F066B-6E11-6F9B-1D5A-E5FE2E69D962}|organization.Application\\organization.Application.csproj|solutionrelative:organization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "organization.Application",
+              "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.Application\\organization.Application.csproj",
+              "RelativeDocumentMoniker": "organization.Application\\organization.Application.csproj",
+              "ToolTip": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.Application\\organization.Application.csproj",
+              "RelativeToolTip": "organization.Application\\organization.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-13T19:22:27.133Z",
+              "EditorCaption": "",
+              "OwnerCaption": "organization.Application"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OrganizationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\OrganizationDbContext.cs",
               "RelativeDocumentMoniker": "organization.infrastructure\\OrganizationDbContext.cs",
@@ -47,12 +65,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:43:34.009Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\Program.cs",
               "RelativeDocumentMoniker": "organization_service\\Program.cs",
@@ -61,12 +78,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:05:42.275Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "organization.infrastructure\\DependencyInjection.cs",
@@ -75,12 +91,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T18:04:59.233Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "organization.Application\\DependencyInjection.cs",
@@ -94,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\appsettings.Development.json",
               "RelativeDocumentMoniker": "organization_service\\appsettings.Development.json",
@@ -103,12 +118,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-13T18:00:20.694Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "organization_service.http",
               "DocumentMoniker": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization_service\\organization_service.http",
               "RelativeDocumentMoniker": "organization_service\\organization_service.http",

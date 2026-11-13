@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mQAGXZYJGR8=",
+  "dgSpecHash": "zY8DcrfVgp0=",
   "success": true,
   "projectFilePath": "C:\\Users\\CHETAN\\source\\repos\\OrderSphere\\src\\Modules\\organization_service\\organization.infrastructure\\organization.infrastructure.csproj",
   "expectedPackageFiles": [
@@ -20,8 +20,8 @@
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.15\\microsoft.extensions.caching.abstractions.10.0.15.nupkg.sha512",
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.15\\microsoft.extensions.caching.memory.10.0.15.nupkg.sha512",
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.15\\microsoft.extensions.configuration.abstractions.10.0.15.nupkg.sha512",
-    "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.15\\microsoft.extensions.dependencyinjection.10.0.15.nupkg.sha512",
+    "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512",
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.15\\microsoft.extensions.dependencymodel.10.0.15.nupkg.sha512",
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.logging\\10.0.15\\microsoft.extensions.logging.10.0.15.nupkg.sha512",
     "C:\\Users\\CHETAN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.15\\microsoft.extensions.logging.abstractions.10.0.15.nupkg.sha512",
