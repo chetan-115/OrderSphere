@@ -1,0 +1,12 @@
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\bin\Debug\net10.0\organization.Domain.deps.json
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\bin\Debug\net10.0\organization.Domain.dll
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\bin\Debug\net10.0\organization.Domain.pdb
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.AssemblyInfoInputs.cache
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.AssemblyInfo.cs
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.sourcelink.json
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.dll
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\refint\organization.Domain.dll
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\organization.Domain.pdb
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization.Domain\obj\Debug\net10.0\ref\organization.Domain.dll
