@@ -44,7 +44,7 @@ namespace organization.infrastructure.Configurations
             builder.HasOne<Organization>()
                 .WithMany()
                 .HasForeignKey(x => x.OrganizationId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
         }
 
     }
