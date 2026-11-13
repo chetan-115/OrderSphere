@@ -7,8 +7,6 @@ C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organi
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\organization_service.runtimeconfig.json
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\organization_service.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\organization_service.pdb
-C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -48,3 +46,4 @@ C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organi
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Npgsql.dll
 C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\CHETAN\source\repos\OrderSphere\src\Modules\organization_service\organization_service\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
